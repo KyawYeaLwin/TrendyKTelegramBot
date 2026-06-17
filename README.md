@@ -32,8 +32,8 @@ pip install -r requirements.txt
 Copy `.env.example` → `.env` and fill in:
 
 ```env
-BOT_TOKEN=8527812037:AAFdSpUVfyu8jAQnkbi9flmcWD14cXyGbuM
-GOOGLE_SHEET_ID=1dO5iztCFKmoD4tjmvTOg_XmqPNHLuZMdiZq_Dl9-dPk
+BOT_TOKEN=xxxxx
+GOOGLE_SHEET_ID=xxxxx
 GOOGLE_SERVICE_ACCOUNT_EMAIL=your-service-account@your-project.iam.gserviceaccount.com
 GOOGLE_PRIVATE_KEY="-----BEGIN RSA PRIVATE KEY-----\n...\n-----END RSA PRIVATE KEY-----\n"
 ```
